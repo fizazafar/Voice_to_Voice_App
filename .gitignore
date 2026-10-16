@@ -1,0 +1,17 @@
+# Secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary audio and model artifacts
+*.wav
+*.mp3
+*.m4a
+*.pt
+*.pth
